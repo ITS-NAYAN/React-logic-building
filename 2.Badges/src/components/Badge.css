@@ -1,0 +1,15 @@
+.active{
+    background-color: greenyellow;
+    border: 2px solid black;
+    padding: 5px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.inactive{
+    background-color: red;
+     border: 2px solid black;
+    padding: 5px;
+    font-size: larger;
+    font-weight: 600;
+}
